@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>251E94FE-0C21-44DA-8385-41B82884DDDF</string>
+	<key>IDESourceControlProjectName</key>
+	<string>iosenequipo</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>19BA71DD7A917024FCF9D4E1823762DA22A11FAF</key>
+		<string>https://github.com/enblabla/ios.git</string>
+		<key>B43753CB3EE0B724C094DD239760198253E7B6FB</key>
+		<string>https://github.com/rracancoj/pruebaios.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>iosenequipo.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>19BA71DD7A917024FCF9D4E1823762DA22A11FAF</key>
+		<string>../..</string>
+		<key>B43753CB3EE0B724C094DD239760198253E7B6FB</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/enblabla/ios.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>19BA71DD7A917024FCF9D4E1823762DA22A11FAF</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>B43753CB3EE0B724C094DD239760198253E7B6FB</string>
+			<key>IDESourceControlWCCName</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>19BA71DD7A917024FCF9D4E1823762DA22A11FAF</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ios</string>
+		</dict>
+	</array>
+</dict>
+</plist>

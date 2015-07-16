@@ -13,6 +13,7 @@
 		098849351B57930700B247CD /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 098849341B57930700B247CD /* Images.xcassets */; };
 		098849381B57930700B247CD /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 098849361B57930700B247CD /* LaunchScreen.xib */; };
 		098849441B57930800B247CD /* prueba3Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 098849431B57930800B247CD /* prueba3Tests.swift */; };
+		098849501B579A5700B247CD /* ViewControllerRoberto.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0988494F1B579A5700B247CD /* ViewControllerRoberto.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		0988493D1B57930800B247CD /* prueba3Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = prueba3Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		098849421B57930800B247CD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		098849431B57930800B247CD /* prueba3Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = prueba3Tests.swift; sourceTree = "<group>"; };
+		0988494F1B579A5700B247CD /* ViewControllerRoberto.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewControllerRoberto.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +83,7 @@
 				0988492F1B57930700B247CD /* ViewController.swift */,
 				098849311B57930700B247CD /* Main.storyboard */,
 				098849341B57930700B247CD /* Images.xcassets */,
+				0988494F1B579A5700B247CD /* ViewControllerRoberto.swift */,
 				098849361B57930700B247CD /* LaunchScreen.xib */,
 				0988492B1B57930700B247CD /* Supporting Files */,
 			);
@@ -212,6 +215,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				098849501B579A5700B247CD /* ViewControllerRoberto.swift in Sources */,
 				098849301B57930700B247CD /* ViewController.swift in Sources */,
 				0988492E1B57930700B247CD /* AppDelegate.swift in Sources */,
 			);
